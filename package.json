@@ -12,6 +12,10 @@
   "devDependencies": {
     "babel": "^5.8.20",
     "css-modules-loader-core": "0.0.12",
+    "postcss": "^4.1.16",
+    "postcss-modules-extract-imports": "^0.0.5",
+    "postcss-modules-local-by-default": "^0.0.9",
+    "postcss-modules-scope": "^0.0.8",
     "in-publish": "^2.0.0",
     "mocha": "^2.2.5"
   },
