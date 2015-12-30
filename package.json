@@ -1,6 +1,6 @@
 {
   "name": "@joeybaker/css-modules-require-hook",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A require hook to compile CSS Modules on the fly",
   "main": "index.js",
   "peerDependencies": {
